@@ -1,0 +1,12 @@
+div.image1{
+    position: relative;
+    width: 150px;
+    height: 100px;
+    background-color: brown;
+   
+    background-image: url(images/compresser-image-1200x628.jpg);
+
+    border-radius: 204px; 
+-moz-border-radius: 204px; 
+-webkit-border-radius: 4px;
+}
